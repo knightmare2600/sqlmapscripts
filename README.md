@@ -1,0 +1,2 @@
+# sqlmapscripts
+Scripts for SQLMap
